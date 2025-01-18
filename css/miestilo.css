@@ -1,0 +1,38 @@
+body{
+  text-align: justify;
+  color: black;
+  font-size: 19px;
+  background: white;
+}
+
+h1 {
+  color: black;
+  text-align: justify;
+  font-family: georgia;
+}
+
+h2 {
+  color: black;
+  text-align: justify;
+  font-family: georgia;
+}
+
+span {
+  font-family: georgia;
+}
+
+a {
+  font-family: georgia;
+}
+
+p {
+  font-family: georgia;
+}
+
+label {
+  font-family: georgia;
+}
+
+div.panel{
+  background-color: lightgray;
+}
